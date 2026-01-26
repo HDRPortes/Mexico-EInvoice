@@ -79,7 +79,7 @@
  "modified": "2026-01-25 15:28:23.903684",
  "modified_by": "Administrator",
  "module": "Mexico Einvoice",
- "name": "Mexico Einvoice",
+ "name": "Mexico Einvoice Home",
  "number_cards": [],
  "owner": "Administrator",
  "parent_page": "",
@@ -114,6 +114,6 @@
    "type": "DocType"
   }
  ],
- "title": "Mexico Einvoice",
+ "title": "Mexico Einvoice Home",
  "type": "Workspace"
 }
