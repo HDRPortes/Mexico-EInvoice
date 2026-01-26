@@ -219,6 +219,6 @@ add_to_apps_screen = [
 		"name": "mexico_einvoice",
 		"logo": "/assets/mexico_einvoice/images/mexico_logo.jpg",
 		"title": "Mexico Einvoice",
-		"route": "/app/mexico-einvoice"
+		"route": "/desk/mexico-einvoice"
 	}
 ]
