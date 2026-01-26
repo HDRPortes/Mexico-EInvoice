@@ -1,0 +1,20 @@
+{
+ "app": "mexico_einvoice",
+ "creation": "2026-01-26 19:38:41.358424",
+ "docstatus": 0,
+ "doctype": "Desktop Icon",
+ "hidden": 0,
+ "icon_type": "App",
+ "idx": 0,
+ "label": "Mexico Einvoice",
+ "link": "/desk/mexico-einvoice",
+ "link_type": "External",
+ "logo_url": "/assets/mexico_einvoice/images/mexico_logo.jpg",
+ "modified": "2026-01-26 19:38:41.358424",
+ "modified_by": "Administrator",
+ "name": "Mexico Einvoice",
+ "owner": "Administrator",
+ "restrict_removal": 0,
+ "roles": [],
+ "standard": 1
+}
