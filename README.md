@@ -1,5 +1,5 @@
 # Mexico E Invoicing (FacturAPI Integration) for ERPNext
-
+[![CI](https://github.com/Beveren-Software-Inc/Mexico-EInvoice/actions/workflows/ci.yml/badge.svg)](https://github.com/Beveren-Software-Inc/Mexico-EInvoice/actions/workflows/ci.yml)
 ## Introduction
 Mexico E Invoicing (FacturAPI Integration) is a powerful ERPNext app designed specifically for businesses operating in Mexico. This app seamlessly integrates with ERPNext to provide a comprehensive solution for generating compliant invoices that meet the rigorous requirements of the Mexican government's CFDI (Comprobante Fiscal Digital por Internet) regulations. By harnessing the capabilities of FacturAPI, our app ensures compliance with Mexico's invoicing standards while enhancing ERPNext's localization for the Mexican market.
 
